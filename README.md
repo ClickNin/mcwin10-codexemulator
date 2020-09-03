@@ -4,6 +4,7 @@ Minecraft Windows 10 CODEX's Emulator
 This is the Minecraft for Windows 10 CODEX's Emualtor to crack the game .
 Only Compalite with Windows 10 1909 or older . 
 The Emulator are broken in 2004 update due to Graphic Driver , Runtime API update !
+Are Decompileable , Are Editable , Are Updateable , You can do anything you want with the crack .
 
 HOW TO USE?
 
